@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css" >
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-        <title>WebSiteW</title>
+        <title>Web Site W</title>
     </head>
     <body>
         <?php include 'db.php'; ?>

@@ -2,8 +2,8 @@
 <html lang="fr">
     <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="normalize.css">
-        <link rel="stylesheet" href="style.css" >
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/style.css" >
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
         <title>WebSiteW</title>
     </head>

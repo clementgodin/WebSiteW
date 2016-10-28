@@ -1,3 +1,10 @@
+<?php
+/* ----------------------
+ * INDEX
+ * ------------------- */
+include 'db.php';
+
+?>
 <!DOCTYPE html>
 <html lang="fr">
     <head>
@@ -8,11 +15,12 @@
         <title>Web Site W</title>
     </head>
     <body>
-        <?php include 'db.php'; ?>
-        <?php include 'header.php'; ?>
+        <?php require_once 'header.php'; ?>
 
-        <?php include 'footer.php'; ?>
-        <script src="jquery-3.1.1.min.js"></script>
+
+        <?php require_once 'footer.php'; ?>
+
         <script src="main.js"></script>
+        <script src="jquery-3.1.1.min.js"></script>
     </body>
 </html>

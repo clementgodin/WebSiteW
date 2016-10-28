@@ -2,7 +2,7 @@
 /* ----------------------
  * INDEX
  * ------------------- */
-
+include 'db.php';
 
 ?>
 <!DOCTYPE html>
@@ -12,6 +12,9 @@
     <title>Document</title>
 </head>
 <body>
-    
-</body>
+    <?php require_once 'header.php'; ?>
+
+    <?php require_once 'footer.php'; ?>
+
+    </body>
 </html>
